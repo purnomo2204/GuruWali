@@ -1,0 +1,19 @@
+
+{
+  "short_name": "JurnalWali",
+  "name": "Jurnal Guru Wali Premium Desktop",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3429/3429150.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "any",
+  "description": "Aplikasi Jurnal Guru Wali dengan penyimpanan lokal di Hard Disk."
+}
